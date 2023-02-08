@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2023-01-31T14:47:56.205781",
+    "startedAt": "2023-01-31T14:47:56.104609",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\ChenJunzhe\\Desktop\\cs1.6\\FPSAutomaticAiming-main\\train.py",
+    "codePath": "train.py",
+    "host": "LAPTOP-33CGKA8U",
+    "username": "ChenJunzhe",
+    "executable": "D:\\Anaconda3\\envs\\new\\python.exe"
+}
